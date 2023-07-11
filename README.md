@@ -1,5 +1,7 @@
 # currency-converter-with-mobx
 
+https://currency-converter-with-mobx.onrender.com
+
 Напишите SPA для конвертирования валют. 
 Для получения текущих курсов найдите и используйте любое открытое API. 
 
